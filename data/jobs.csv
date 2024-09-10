@@ -1,0 +1,7 @@
+name,framework,arn_step_function,iniciativa,is_ready,params,cron
+dbt_1,dbt,arn:aws:iam::088061297634:role/dbt-DBTWorkflowStack-HK04BHRJLS8G-Role-gKzlSIipNpxN,hseq,,{"bu":"digital"},
+dbt_2,dbt,arn:aws:iam::088061297634:role/dbt-DBTWorkflowStack-HK04BHRJLS8G-Role-gKzlSIipNpxN,hseq,,{"bu":"digital"},
+dbt_3,dbt,arn:aws:iam::088061297634:role/dbt-DBTWorkflowStack-HK04BHRJLS8G-Role-gKzlSIipNpxN,hseq,,{"bu":"digital"},
+frink,frink,arn:aws:iam::088061297634:role/frink-FrinkGeckoreWorkflowStack-HK04BHRJLS8G-Role-gKzlSIipNpxN,frink,,{"bu":"digital"},
+
+

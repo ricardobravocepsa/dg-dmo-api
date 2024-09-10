@@ -1,0 +1,21 @@
+---
+operation:
+- read
+- write
+framework:
+- dbt
+- frink
+- athena
+- glue
+dataset_type:
+- iceberg
+- file
+- rdbms
+- hive
+freshness_unit:
+- days 
+- hours
+layer:
+- landing 
+- staging
+- business
